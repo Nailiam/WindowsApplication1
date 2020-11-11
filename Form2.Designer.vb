@@ -209,14 +209,14 @@ Partial Class Form_Mobil
         '
         'txt_Id
         '
-        Me.txt_Id.Location = New System.Drawing.Point(138, 80)
+        Me.txt_Id.Location = New System.Drawing.Point(138, 46)
         Me.txt_Id.Name = "txt_Id"
         Me.txt_Id.Size = New System.Drawing.Size(138, 20)
         Me.txt_Id.TabIndex = 6
         '
         'txt_Platmobil
         '
-        Me.txt_Platmobil.Location = New System.Drawing.Point(138, 46)
+        Me.txt_Platmobil.Location = New System.Drawing.Point(138, 80)
         Me.txt_Platmobil.Name = "txt_Platmobil"
         Me.txt_Platmobil.Size = New System.Drawing.Size(138, 20)
         Me.txt_Platmobil.TabIndex = 5
@@ -251,7 +251,7 @@ Partial Class Form_Mobil
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(15, 80)
+        Me.Label2.Location = New System.Drawing.Point(15, 53)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(46, 13)
         Me.Label2.TabIndex = 1
@@ -260,7 +260,7 @@ Partial Class Form_Mobil
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(15, 46)
+        Me.Label1.Location = New System.Drawing.Point(15, 87)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(53, 13)
         Me.Label1.TabIndex = 0
