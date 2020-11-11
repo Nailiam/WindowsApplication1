@@ -1,0 +1,12 @@
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_Mobil.resources
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\TUBES SI\SI_Sewa Mobil_K5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
